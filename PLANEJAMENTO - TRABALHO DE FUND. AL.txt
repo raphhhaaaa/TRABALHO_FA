@@ -51,6 +51,5 @@ A FAZER: SOLUÇÃO DA PERGUNTA 3
   VITÓRIA = 3 PONTOS
   EMPATE = 1 PONTO
   
-att: já consegui descobrir uma forma de isolar o nome dos times e possivelmente sua respectiva pontuação também, utilizando funções que acham o primeiro e o último espaço da frase, juntamente com manipulação e fatiamento de strins
 
 =-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=
